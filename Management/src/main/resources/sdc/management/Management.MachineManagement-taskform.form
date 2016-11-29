@@ -1,0 +1,30 @@
+
+<form id="373159120">
+<property name="name" value="Management.MachineManagement-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="start" type="CheckBox" id="1472301857">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Record Detailsquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="start"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="AllocatedTo" value="java.lang.String" id="AllocatedTo"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="ComplaintDesc" value="java.lang.String" id="ComplaintDesc"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="ExpDateOfRepair" value="java.util.Date" id="ExpDateOfRepair"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="MachineID" value="java.lang.String" id="MachineID"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="MaintHeadRemark" value="java.lang.String" id="MaintHeadRemark"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="MaintRemarks" value="java.lang.String" id="MaintRemarks"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="ProblemSeverity" value="java.lang.String" id="ProblemSeverity"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="ProblemType" value="java.lang.String" id="ProblemType"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="RecomResolution" value="java.lang.String" id="RecomResolution"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="RepairActions" value="java.lang.String" id="RepairActions"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="RepairComment" value="java.lang.String" id="RepairComment"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="ReqFixDate" value="java.util.Date" id="ReqFixDate"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="SupervisorRemarks" value="java.lang.String" id="SupervisorRemarks"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="SupervisorStatus" value="java.lang.String" id="SupervisorStatus"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="start" value="java.lang.Boolean" id="start"/>
+</form>

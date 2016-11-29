@@ -1,0 +1,41 @@
+
+<form id="1769537825">
+<property name="name" value="Management.EnquiryManagement-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="StartProcess" type="CheckBox" id="151770519">
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Record Detailsquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="StartProcess"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="ActualDate" value="java.util.Date" id="ActualDate"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="ActualQty" value="java.lang.Integer" id="ActualQty"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="BidCheck" value="java.lang.Boolean" id="BidCheck"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="BidRevAmt" value="java.lang.Integer" id="BidRevAmt"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="BidRevCheck" value="java.lang.Boolean" id="BidRevCheck"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="BidRevRemark" value="java.lang.String" id="BidRevRemark"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="ClientContactNumber" value="java.lang.String" id="ClientContactNumber"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="ClientName" value="java.lang.String" id="ClientName"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="CostPerUnit" value="java.lang.Integer" id="CostPerUnit"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="CostPerUnitRemark" value="java.lang.String" id="CostPerUnitRemark"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="ExpectedDeliveryDate" value="java.util.Date" id="ExpectedDeliveryDate"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="FinalStatus" value="java.lang.String" id="FinalStatus"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="NewCostPerUnit" value="java.lang.Integer" id="NewCostPerUnit"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="OtherProduct" value="java.lang.String" id="OtherProduct"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="ProdLineRemark" value="java.lang.String" id="ProdLineRemark"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="ProductLineExist" value="java.lang.Boolean" id="ProductLineExist"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="ProductName" value="java.lang.String" id="ProductName"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="QtyRequired" value="java.lang.Integer" id="QtyRequired"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="QtyToBeProduced" value="java.lang.Integer" id="QtyToBeProduced"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="ReasonForUnValidRequest" value="java.lang.String" id="ReasonForUnValidRequest"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="Specification" value="java.lang.String" id="Specification"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="StartNewEnquiry" value="java.lang.Boolean" id="StartNewEnquiry"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="StartProcess" value="java.lang.Boolean" id="StartProcess"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="ValidRequest" value="java.lang.Boolean" id="ValidRequest"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="bidAmount" value="java.lang.Integer" id="bidAmount"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="bidAuthRemark" value="java.lang.String" id="bidAuthRemark"/>
+</form>
